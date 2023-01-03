@@ -1,5 +1,3 @@
-#include <bits/stdc++.h> 
-#include <bits/stdc++.h> 
 vector<int> ninjaAndSortedArrays(vector<int>& arr1, vector<int>& arr2, int m, int n) {
 	// Write your code here.
     while((m-1)>=0 && (n-1)>=0){
